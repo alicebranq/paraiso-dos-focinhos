@@ -1,0 +1,24 @@
+.parent-div-adote{
+    display: flex; flex-direction: row-reverse;
+    justify-content: center;
+    margin-top: 4rem;
+    margin-left: 13%; margin-right: 13%;
+}
+.child-div-img-adote{
+    margin-top: 4rem;
+}
+h2{
+    font-size: 60px; color: #273084;
+    font-family: 'Itim', cursive;
+}
+#texto-explicacao-adote{
+    font-family: 'Fredoka', sans-serif;
+    font-size: 30px;
+}
+
+.child-div-divisao-de-pagina{
+    width: fit-content; 
+}
+.img-divisao-de-pag{
+    width: 100%;
+}

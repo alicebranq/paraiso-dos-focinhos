@@ -1,0 +1,32 @@
+.parent-div-sobrenos{
+    display: flex;
+    flex-direction: row; justify-content: center;
+    margin-top: 3%;
+    margin-left: 13%; margin-right: 13%;
+}
+#img-sobrenos-HomePage{
+    size: 20px;
+}
+.text-div-sobrenos{
+    background-color: #E2E4FF; 
+    width: 100%;
+    border-radius: 0px 90px 0px 30px;
+    font-size: 20px;
+    color: #273084;
+    /* height: 540px; width: 430px; */
+    margin-left: 30px;
+}
+p{
+    position: relative;
+    margin-top: 4%;
+    width: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-right: 8%;
+}
+h3{
+    margin-left: 4%;
+    font-family: 'Itim', cursive;
+    font-size: 40px;
+    margin-bottom: 1%;
+}
