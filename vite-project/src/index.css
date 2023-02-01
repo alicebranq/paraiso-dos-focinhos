@@ -1,5 +1,11 @@
 body{
+    width: 100%;
     margin-left: 0;
+    background-color: #EFEFEF;
+}
+*{
+    color: #273084;
+    font-family: 'Itim', cursive;
 }
 
 /* FONTS IN THE PROJECT: 

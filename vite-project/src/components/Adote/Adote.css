@@ -1,3 +1,4 @@
+
 .parent-div-adote{
     display: flex; flex-direction: row-reverse;
     justify-content: center;
@@ -7,13 +8,18 @@
 .child-div-img-adote{
     margin-top: 4rem;
 }
-h2{
-    font-size: 60px; color: #273084;
+
+.chamada-adocao-texto{
+    font-size: 65px; color: #273084;
     font-family: 'Itim', cursive;
+    background-color: #E2E4FF;
+    padding: 10px;
+    border-radius: 0px 90px 0px 0px;
 }
 #texto-explicacao-adote{
     font-family: 'Fredoka', sans-serif;
-    font-size: 30px;
+    font-size: 26px;
+
 }
 
 .child-div-divisao-de-pagina{
@@ -21,4 +27,25 @@ h2{
 }
 .img-divisao-de-pag{
     width: 100%;
+}
+.separacao-div{
+    height: 6rem;
+}
+
+.child-div-cantidatesebutton{
+
+    justify-content: center; align-items: center;
+
+    font-size: 20px;
+}
+.child-div-cantidatesebutton::hoover{
+    color: #FFF479;
+}
+.element-candidatesebutton{
+    margin-left: 19%;
+    font-size: 30px;
+    text-justify: center;
+}
+a{
+    text-decoration: none;
 }
